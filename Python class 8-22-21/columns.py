@@ -1,3 +1,5 @@
+from turtle import *
+
 left(90)
 forward(200)
 backward(400)
