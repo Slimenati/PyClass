@@ -1,3 +1,5 @@
+from turtle import *
+
 penup()
 backward(100)
 color("red")
