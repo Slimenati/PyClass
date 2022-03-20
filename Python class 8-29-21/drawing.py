@@ -1,4 +1,7 @@
 #Utlizing circles and loops, this program creates a somewhat spiral shape of all the different colors.
+
+from turtle import *
+
 speed(0)
 for i in range (70):  
     color("black")
