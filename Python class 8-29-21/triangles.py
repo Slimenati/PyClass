@@ -1,7 +1,12 @@
+from turtle import *
+
+#sets position
 speed(0)
 penup()
 setposition(-100, 0)
 pensize(5)
+
+#draws four triangles 
 for i in range(4):
     pendown()
     color('red')
