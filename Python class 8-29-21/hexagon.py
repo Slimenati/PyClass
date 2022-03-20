@@ -1,3 +1,4 @@
+#creates a light green hexagon
 begin_fill()
 color('light green')
 speed(0)
