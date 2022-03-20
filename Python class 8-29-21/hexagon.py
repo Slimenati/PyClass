@@ -1,4 +1,6 @@
 #creates a light green hexagon
+from turtle import *
+
 begin_fill()
 color('light green')
 speed(0)
