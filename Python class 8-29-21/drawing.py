@@ -1,5 +1,4 @@
-#Utlizing circles and loops, this program creates a somewhat spiral shape of 
-#all the different colors.
+#Utlizing circles and loops, this program creates a somewhat spiral shape of all the different colors.
 speed(0)
 for i in range (70):  
     color("black")
