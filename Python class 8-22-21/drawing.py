@@ -1,5 +1,7 @@
+#draws the word red in the color red
 from turtle import *
 
+#letter r
 penup()
 backward(100)
 color("red")
@@ -14,6 +16,8 @@ forward(15)
 left(90)
 penup()
 forward(25)
+
+#letter e
 pendown()
 forward(25)
 backward(25)
@@ -29,6 +33,8 @@ forward(25)
 penup()
 forward(25)
 left(90)
+
+#letter d
 pendown()
 forward(20)
 backward(20)
