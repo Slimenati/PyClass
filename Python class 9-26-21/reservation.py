@@ -1,3 +1,4 @@
+#tells you if your reservation is valid or not
 name = str(input("What is your name?"))
 reservation_name = "Jason"
 if name == reservation_name:
