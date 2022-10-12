@@ -1,3 +1,5 @@
+#Disclaimer: this is not a reference to a specific event occuring with two towers
+
 #creates two towers
 
 from karel.stanfordkarel import *
